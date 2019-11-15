@@ -1,31 +1,14 @@
-{ 
-"success": "true",
-"products": [
-  {
-    "_id": "5dcea17bf36e79617c4df729",
-    "name": "consectetur eu",
-    "url": "./catalog",
-    "description": {
-      "short": "amet cupidatat officia elit est labore id sint adipisicing veniam sunt enim laboris dolor cillum",
-      "full": "Et nulla ut aliqua ea Lorem voluptate qui eu est irure eiusmod. Commodo consectetur ea consectetur eiusmod et dolore in. Quis anim do duis esse proident nisi ut exercitation adipisicing duis tempor ex culpa. Quis sint voluptate in incididunt amet adipisicing. Irure consequat anim laboris aliqua sint laborum sint tempor excepteur esse ex.\r\nQui esse aute occaecat voluptate nostrud nulla do mollit. Aliqua dolor ut fugiat ipsum consequat. Magna quis fugiat ex nulla enim dolor proident do qui. Cillum reprehenderit minim ex ea nulla nulla non sint nisi cillum. Dolore culpa mollit anim est voluptate exercitation irure ea deserunt aliquip excepteur. Minim eiusmod nostrud mollit deserunt. Minim ex eu nostrud velit aute eiusmod.\r\n"
-    },
-    "pictures": {
-      "main": "http://placehold.it/280x280",
-      "flip": "http://placehold.it/300x300"
-    }
-  },
-  {
-    "_id": "5dcea17b8d4415b85687c402",
-    "name": "magna duis",
-    "url": "./catalog",
-    "description": {
-      "short": "labore excepteur occaecat ex exercitation veniam tempor proident Lorem adipisicing nulla aliquip ullamco excepteur velit",
-      "full": "Officia nisi nulla non nisi laborum est ex labore duis elit. Sunt sint ullamco deserunt dolor ad mollit commodo. Laboris aliqua minim pariatur magna aliqua. Culpa esse labore aute excepteur cillum ut nisi ut irure sit sunt Lorem commodo anim. Reprehenderit reprehenderit in laborum aliqua aute eiusmod non veniam Lorem.\r\nCupidatat magna velit ex do est nulla. Sit voluptate anim dolor tempor. Incididunt sit eu minim mollit qui id est ex incididunt.\r\n"
-    },
-    "pictures": {
-      "main": "http://placehold.it/280x280",
-      "flip": "http://placehold.it/300x300"
-    }
+{
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
   }
-]
 }
