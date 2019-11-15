@@ -1,6 +1,6 @@
 { 
-success: true,
-products: [
+"success": "true",
+"products": [
   {
     "_id": "5dcea0b92607d4b46f737c39",
     "name": "proident nisi",
