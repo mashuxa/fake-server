@@ -8,7 +8,6 @@
     "isPromo": false,
     "name": "non laboris mollit",
     "url": "./catalog/5dd027550c1a32c3d287a4ea",
-    "specialPrice": 99,
     "price": 150,
     "currency": {
       "symbol": "€",
@@ -34,7 +33,6 @@
     "isPromo": true,
     "name": "consequat reprehenderit esse",
     "url": "./catalog/5dd0275565454bb0574c6eff",
-    "specialPrice": 54,
     "price": 151,
     "currency": {
       "symbol": "€",
@@ -65,7 +63,6 @@
     "isPromo": false,
     "name": "incididunt ullamco fugiat",
     "url": "./catalog/5dd027557951f6bd57a162d3",
-    "specialPrice": 53,
     "price": 153,
     "currency": {
       "symbol": "€",
