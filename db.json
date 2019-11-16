@@ -3,868 +3,69 @@
   "count": "65",
   "products": [
   {
-    "id": "5dd02406b41404d8e63de055",
-    "isOutOfStock": true,
-    "isPromo": true,
-    "name": "cillum nostrud duis",
-    "url": "./catalog/5dd02406ca3caecfd52c94d7",
-    "specialPrice": 87,
-    "price": 178,
-    "currency": {
-      "symbol": "€",
-      "isBefore": false
-    },
-    "swatches": [
-      {
-        "title": "magna",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "cillum",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "commodo",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "nostrud",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      }
-    ],
-    "shortDescription": "officia amet"
-  },
-  {
-    "id": "5dd02406df262a9b64a36237",
-    "isOutOfStock": false,
-    "isPromo": true,
-    "name": "mollit sit magna",
-    "url": "./catalog/5dd0240666d50d335d2bee67",
-    "specialPrice": 84,
-    "price": 119,
-    "currency": {
-      "symbol": "€",
-      "isBefore": false
-    },
-    "swatches": [
-      {
-        "title": "aliqua",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "elit",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "excepteur",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "sunt",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "mollit",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      }
-    ],
-    "shortDescription": "sunt est"
-  },
-  {
-    "id": "5dd02406731f0c810931dcd1",
+    "id": "5dd027552d8f407dcf87d1e6",
     "isOutOfStock": false,
     "isPromo": false,
-    "name": "culpa cupidatat id",
-    "url": "./catalog/5dd02406dc0e5cb54ad89db5",
-    "specialPrice": 91,
-    "price": 148,
+    "name": "non laboris mollit",
+    "url": "./catalog/5dd027550c1a32c3d287a4ea",
+    "specialPrice": 99,
+    "price": 150,
     "currency": {
       "symbol": "€",
       "isBefore": false
     },
     "swatches": [
       {
-        "title": "quis",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
+        "title": "tempor",
+        "main": "https://picsum.photos/348/480",
+        "flip": "https://picsum.photos/348/480"
+      },
+      {
+        "title": "amet",
+        "main": "https://picsum.photos/348/480",
+        "flip": "https://picsum.photos/348/480"
       }
     ],
-    "shortDescription": "eu amet"
+    "shortDescription": "sit mollit"
   },
   {
-    "id": "5dd024063b6b22fb67eb0345",
-    "isOutOfStock": true,
+    "id": "5dd027557c215a3b8638d833",
+    "isOutOfStock": false,
     "isPromo": true,
-    "name": "dolor eu fugiat",
-    "url": "./catalog/5dd02406bc2030c0f3e1d8d0",
-    "specialPrice": 97,
-    "price": 106,
+    "name": "consequat reprehenderit esse",
+    "url": "./catalog/5dd0275565454bb0574c6eff",
+    "specialPrice": 54,
+    "price": 151,
     "currency": {
       "symbol": "€",
       "isBefore": false
     },
     "swatches": [
       {
-        "title": "laboris",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
+        "title": "in",
+        "main": "https://picsum.photos/348/480",
+        "flip": "https://picsum.photos/348/480"
       },
-      {
-        "title": "nostrud",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "aliqua",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      }
-    ],
-    "shortDescription": "exercitation sint"
-  },
-  {
-    "id": "5dd02406634b265b743c367f",
-    "isOutOfStock": true,
-    "isPromo": false,
-    "name": "excepteur excepteur reprehenderit",
-    "url": "./catalog/5dd02406aa47604f4291e695",
-    "specialPrice": 82,
-    "price": 100,
-    "currency": {
-      "symbol": "€",
-      "isBefore": false
-    },
-    "swatches": [
       {
         "title": "proident",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
+        "main": "https://picsum.photos/348/480",
+        "flip": "https://picsum.photos/348/480"
       },
       {
-        "title": "duis",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      }
-    ],
-    "shortDescription": "velit anim"
-  },
-  {
-    "id": "5dd0240602208a0831da03ee",
-    "isOutOfStock": true,
-    "isPromo": false,
-    "name": "aliquip eu commodo",
-    "url": "./catalog/5dd024063f2892cd471099a1",
-    "specialPrice": 78,
-    "price": 163,
-    "currency": {
-      "symbol": "€",
-      "isBefore": false
-    },
-    "swatches": [
-      {
-        "title": "qui",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "veniam",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "esse",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      }
-    ],
-    "shortDescription": "id amet"
-  },
-  {
-    "id": "5dd024061ea492b71f0897e6",
-    "isOutOfStock": false,
-    "isPromo": true,
-    "name": "consectetur anim ea",
-    "url": "./catalog/5dd024068ee8d63d6cbf0231",
-    "specialPrice": 85,
-    "price": 147,
-    "currency": {
-      "symbol": "€",
-      "isBefore": false
-    },
-    "swatches": [
-      {
-        "title": "ad",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      }
-    ],
-    "shortDescription": "quis sit"
-  },
-  {
-    "id": "5dd0240682eed6b8537e2510",
-    "isOutOfStock": true,
-    "isPromo": true,
-    "name": "velit mollit in",
-    "url": "./catalog/5dd0240655bcdc0adc719de6",
-    "specialPrice": 67,
-    "price": 133,
-    "currency": {
-      "symbol": "€",
-      "isBefore": false
-    },
-    "swatches": [
-      {
-        "title": "excepteur",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "velit",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      }
-    ],
-    "shortDescription": "nulla reprehenderit"
-  },
-  {
-    "id": "5dd02406ee9689274c22f9a4",
-    "isOutOfStock": false,
-    "isPromo": false,
-    "name": "sit laborum cupidatat",
-    "url": "./catalog/5dd0240673b4d3345706a8cd",
-    "specialPrice": 52,
-    "price": 144,
-    "currency": {
-      "symbol": "€",
-      "isBefore": false
-    },
-    "swatches": [
-      {
-        "title": "est",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "culpa",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "adipisicing",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
+        "title": "irure",
+        "main": "https://picsum.photos/348/480",
+        "flip": "https://picsum.photos/348/480"
       }
     ],
     "shortDescription": "velit ad"
   },
   {
-    "id": "5dd024062a6617bab0e79c1d",
+    "id": "5dd0275537021ca6a44cf7c4",
     "isOutOfStock": true,
     "isPromo": false,
-    "name": "occaecat sunt nisi",
-    "url": "./catalog/5dd024060470dcdd8f325fc5",
-    "specialPrice": 55,
-    "price": 199,
-    "currency": {
-      "symbol": "€",
-      "isBefore": false
-    },
-    "swatches": [
-      {
-        "title": "irure",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "non",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      }
-    ],
-    "shortDescription": "sit amet"
-  },
-  {
-    "id": "5dd02406726c2040b7a6577e",
-    "isOutOfStock": true,
-    "isPromo": true,
-    "name": "deserunt magna anim",
-    "url": "./catalog/5dd02406b554fa46527d867f",
-    "specialPrice": 79,
-    "price": 158,
-    "currency": {
-      "symbol": "€",
-      "isBefore": false
-    },
-    "swatches": [
-      {
-        "title": "dolore",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "laboris",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      }
-    ],
-    "shortDescription": "consequat ipsum"
-  },
-  {
-    "id": "5dd024067c9e22c76b154e24",
-    "isOutOfStock": false,
-    "isPromo": true,
-    "name": "ex aute mollit",
-    "url": "./catalog/5dd0240672ce792fe0c7ee65",
-    "specialPrice": 71,
-    "price": 161,
-    "currency": {
-      "symbol": "€",
-      "isBefore": false
-    },
-    "swatches": [
-      {
-        "title": "nostrud",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "nisi",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "id",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "magna",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      }
-    ],
-    "shortDescription": "reprehenderit consectetur"
-  },
-  {
-    "id": "5dd0240617492d133b9cdbc3",
-    "isOutOfStock": false,
-    "isPromo": false,
-    "name": "enim cupidatat dolor",
-    "url": "./catalog/5dd02406fa2e986064633902",
-    "specialPrice": 71,
-    "price": 157,
-    "currency": {
-      "symbol": "€",
-      "isBefore": false
-    },
-    "swatches": [
-      {
-        "title": "eiusmod",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "non",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "elit",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      }
-    ],
-    "shortDescription": "commodo non"
-  },
-  {
-    "id": "5dd02406ced3b3a0cbfe6354",
-    "isOutOfStock": true,
-    "isPromo": false,
-    "name": "occaecat sint in",
-    "url": "./catalog/5dd0240647ee3a95e370193e",
-    "specialPrice": 64,
-    "price": 116,
-    "currency": {
-      "symbol": "€",
-      "isBefore": false
-    },
-    "swatches": [
-      {
-        "title": "cillum",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      }
-    ],
-    "shortDescription": "eu irure"
-  },
-  {
-    "id": "5dd02406a64b01f6098fd5a4",
-    "isOutOfStock": false,
-    "isPromo": true,
-    "name": "tempor do consectetur",
-    "url": "./catalog/5dd024067fbe4cbfc3785e33",
+    "name": "incididunt ullamco fugiat",
+    "url": "./catalog/5dd027557951f6bd57a162d3",
     "specialPrice": 53,
-    "price": 148,
-    "currency": {
-      "symbol": "€",
-      "isBefore": false
-    },
-    "swatches": [
-      {
-        "title": "nostrud",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "ipsum",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "in",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "in",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      }
-    ],
-    "shortDescription": "sint cillum"
-  },
-  {
-    "id": "5dd0240641f77604dcba098b",
-    "isOutOfStock": true,
-    "isPromo": true,
-    "name": "laborum amet quis",
-    "url": "./catalog/5dd02406e84b65e5ed965042",
-    "specialPrice": 64,
-    "price": 136,
-    "currency": {
-      "symbol": "€",
-      "isBefore": false
-    },
-    "swatches": [
-      {
-        "title": "ullamco",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "quis",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "est",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "mollit",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      }
-    ],
-    "shortDescription": "laborum occaecat"
-  },
-  {
-    "id": "5dd02406bcc7cf30239db912",
-    "isOutOfStock": false,
-    "isPromo": true,
-    "name": "voluptate proident Lorem",
-    "url": "./catalog/5dd02406860becdd98e26db4",
-    "specialPrice": 80,
-    "price": 146,
-    "currency": {
-      "symbol": "€",
-      "isBefore": false
-    },
-    "swatches": [
-      {
-        "title": "enim",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "do",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "ea",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "culpa",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "occaecat",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      }
-    ],
-    "shortDescription": "esse cillum"
-  },
-  {
-    "id": "5dd02406a31abae6d58a0629",
-    "isOutOfStock": false,
-    "isPromo": true,
-    "name": "mollit nostrud cillum",
-    "url": "./catalog/5dd0240680bfd8f735a3ae25",
-    "specialPrice": 50,
-    "price": 134,
-    "currency": {
-      "symbol": "€",
-      "isBefore": false
-    },
-    "swatches": [
-      {
-        "title": "exercitation",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "Lorem",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "aliqua",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "veniam",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      }
-    ],
-    "shortDescription": "deserunt aliqua"
-  },
-  {
-    "id": "5dd024066faa5f39264470d5",
-    "isOutOfStock": true,
-    "isPromo": true,
-    "name": "nulla irure ut",
-    "url": "./catalog/5dd024066a863a1e520a70e4",
-    "specialPrice": 84,
-    "price": 179,
-    "currency": {
-      "symbol": "€",
-      "isBefore": false
-    },
-    "swatches": [
-      {
-        "title": "exercitation",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "enim",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      }
-    ],
-    "shortDescription": "officia nisi"
-  },
-  {
-    "id": "5dd024061b14fbad6bf53203",
-    "isOutOfStock": false,
-    "isPromo": true,
-    "name": "tempor incididunt nisi",
-    "url": "./catalog/5dd02406f3772b04e69978c1",
-    "specialPrice": 96,
-    "price": 162,
-    "currency": {
-      "symbol": "€",
-      "isBefore": false
-    },
-    "swatches": [
-      {
-        "title": "exercitation",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "commodo",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "consectetur",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      }
-    ],
-    "shortDescription": "tempor cillum"
-  },
-  {
-    "id": "5dd02406457529674ef3f778",
-    "isOutOfStock": false,
-    "isPromo": true,
-    "name": "enim laborum non",
-    "url": "./catalog/5dd024067377160e58e7ac33",
-    "specialPrice": 72,
-    "price": 190,
-    "currency": {
-      "symbol": "€",
-      "isBefore": false
-    },
-    "swatches": [
-      {
-        "title": "nostrud",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "occaecat",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "eu",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "do",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "dolore",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      }
-    ],
-    "shortDescription": "proident ea"
-  },
-  {
-    "id": "5dd02406c0d3ef6532b47a30",
-    "isOutOfStock": false,
-    "isPromo": true,
-    "name": "aliquip amet mollit",
-    "url": "./catalog/5dd02406b4036b303b5f3a74",
-    "specialPrice": 66,
-    "price": 142,
-    "currency": {
-      "symbol": "€",
-      "isBefore": false
-    },
-    "swatches": [
-      {
-        "title": "Lorem",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "non",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "ipsum",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "do",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "enim",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      }
-    ],
-    "shortDescription": "aliquip Lorem"
-  },
-  {
-    "id": "5dd0240681a8319d0b65513d",
-    "isOutOfStock": true,
-    "isPromo": false,
-    "name": "et Lorem non",
-    "url": "./catalog/5dd024064b1bcd762ece51a5",
-    "specialPrice": 76,
-    "price": 163,
-    "currency": {
-      "symbol": "€",
-      "isBefore": false
-    },
-    "swatches": [
-      {
-        "title": "pariatur",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "irure",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "quis",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "officia",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "veniam",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      }
-    ],
-    "shortDescription": "reprehenderit pariatur"
-  },
-  {
-    "id": "5dd02406fb9c2ad4c624d806",
-    "isOutOfStock": false,
-    "isPromo": false,
-    "name": "magna Lorem mollit",
-    "url": "./catalog/5dd024063620551a3078e4e7",
-    "specialPrice": 82,
-    "price": 159,
-    "currency": {
-      "symbol": "€",
-      "isBefore": false
-    },
-    "swatches": [
-      {
-        "title": "amet",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "eu",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "nulla",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "dolore",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "et",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      }
-    ],
-    "shortDescription": "ea dolore"
-  },
-  {
-    "id": "5dd0240619e81fa7eee6fa04",
-    "isOutOfStock": true,
-    "isPromo": true,
-    "name": "dolore aliquip excepteur",
-    "url": "./catalog/5dd024060c211cda9e2166b0",
-    "specialPrice": 100,
-    "price": 190,
-    "currency": {
-      "symbol": "€",
-      "isBefore": false
-    },
-    "swatches": [
-      {
-        "title": "minim",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "quis",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "adipisicing",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "proident",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "duis",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      }
-    ],
-    "shortDescription": "voluptate ex"
-  },
-  {
-    "id": "5dd024062c6f9f33ca460d12",
-    "isOutOfStock": false,
-    "isPromo": false,
-    "name": "esse do fugiat",
-    "url": "./catalog/5dd02406f34a7a3f0cf42e6a",
-    "specialPrice": 55,
-    "price": 117,
-    "currency": {
-      "symbol": "€",
-      "isBefore": false
-    },
-    "swatches": [
-      {
-        "title": "dolore",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "proident",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "consequat",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "velit",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "excepteur",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      }
-    ],
-    "shortDescription": "sunt consectetur"
-  },
-  {
-    "id": "5dd0240654dbf9aaaca1b781",
-    "isOutOfStock": true,
-    "isPromo": false,
-    "name": "culpa fugiat ex",
-    "url": "./catalog/5dd024064fd9b749777fa70d",
-    "specialPrice": 62,
     "price": 153,
     "currency": {
       "symbol": "€",
@@ -872,827 +73,52 @@
     },
     "swatches": [
       {
-        "title": "sint",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      }
-    ],
-    "shortDescription": "eiusmod nisi"
-  },
-  {
-    "id": "5dd02406036e051947c2ff2c",
-    "isOutOfStock": true,
-    "isPromo": false,
-    "name": "ipsum cupidatat aute",
-    "url": "./catalog/5dd02406ff3b74a646664309",
-    "specialPrice": 85,
-    "price": 189,
-    "currency": {
-      "symbol": "€",
-      "isBefore": false
-    },
-    "swatches": [
-      {
-        "title": "ut",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "irure",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      }
-    ],
-    "shortDescription": "proident veniam"
-  },
-  {
-    "id": "5dd024068eb395b02e0be1ac",
-    "isOutOfStock": true,
-    "isPromo": false,
-    "name": "consequat pariatur ut",
-    "url": "./catalog/5dd02406ba0c6f5aa696a942",
-    "specialPrice": 59,
-    "price": 109,
-    "currency": {
-      "symbol": "€",
-      "isBefore": false
-    },
-    "swatches": [
-      {
-        "title": "esse",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "cillum",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      }
-    ],
-    "shortDescription": "occaecat esse"
-  },
-  {
-    "id": "5dd024061fa3cbb6cf867722",
-    "isOutOfStock": false,
-    "isPromo": false,
-    "name": "laborum sunt tempor",
-    "url": "./catalog/5dd024064ffa4e8365559e40",
-    "specialPrice": 69,
-    "price": 174,
-    "currency": {
-      "symbol": "€",
-      "isBefore": false
-    },
-    "swatches": [
-      {
         "title": "elit",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
+        "main": "https://picsum.photos/348/480",
+        "flip": "https://picsum.photos/348/480"
       },
       {
-        "title": "ea",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
+        "title": "ex",
+        "main": "https://picsum.photos/348/480",
+        "flip": "https://picsum.photos/348/480"
       },
       {
-        "title": "in",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "amet",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "Lorem",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
+        "title": "tempor",
+        "main": "https://picsum.photos/348/480",
+        "flip": "https://picsum.photos/348/480"
       }
     ],
-    "shortDescription": "voluptate deserunt"
+    "shortDescription": "quis consectetur"
   },
   {
-    "id": "5dd02406dd6aef4dd8d6fc25",
-    "isOutOfStock": true,
+    "id": "5dd027558e20db4b1b1c8234",
+    "isOutOfStock": false,
+    "isPromo": true,
+    "name": "consequat aute do",
+    "url": "./catalog/5dd0275524489e443b95c46e",
+    "specialPrice": 51,
+    "price": 194,
+    "currency": {
+      "symbol": "€",
+      "isBefore": false
+    },
+    "swatches": [
+      {
+        "title": "labore",
+        "main": "https://picsum.photos/348/480",
+        "flip": "https://picsum.photos/348/480"
+      }
+    ],
+    "shortDescription": "aute pariatur"
+  },
+  {
+    "id": "5dd027552a68c495cf251fa8",
+    "isOutOfStock": false,
     "isPromo": false,
-    "name": "non ea cillum",
-    "url": "./catalog/5dd02406e3e83c0d958ed250",
-    "specialPrice": 85,
+    "name": "velit tempor esse",
+    "url": "./catalog/5dd027551f23e2d950fbede0",
+    "specialPrice": 92,
     "price": 138,
-    "currency": {
-      "symbol": "€",
-      "isBefore": false
-    },
-    "swatches": [
-      {
-        "title": "minim",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "officia",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "id",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "Lorem",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "aliquip",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      }
-    ],
-    "shortDescription": "laboris cillum"
-  },
-  {
-    "id": "5dd0240654a311958547cad7",
-    "isOutOfStock": true,
-    "isPromo": true,
-    "name": "est exercitation non",
-    "url": "./catalog/5dd02406d92e5a7d0bddcacb",
-    "specialPrice": 76,
-    "price": 104,
-    "currency": {
-      "symbol": "€",
-      "isBefore": false
-    },
-    "swatches": [
-      {
-        "title": "exercitation",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "cupidatat",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      }
-    ],
-    "shortDescription": "ut nisi"
-  },
-  {
-    "id": "5dd02406f0c409d2acc47f81",
-    "isOutOfStock": true,
-    "isPromo": true,
-    "name": "pariatur proident ex",
-    "url": "./catalog/5dd024064b85dfbaeb7c9798",
-    "specialPrice": 83,
-    "price": 190,
-    "currency": {
-      "symbol": "€",
-      "isBefore": false
-    },
-    "swatches": [
-      {
-        "title": "enim",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "eiusmod",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "ad",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "esse",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      }
-    ],
-    "shortDescription": "sint ea"
-  },
-  {
-    "id": "5dd02406a7541dd64049c4be",
-    "isOutOfStock": true,
-    "isPromo": false,
-    "name": "ullamco laborum est",
-    "url": "./catalog/5dd02406654b91234a534b5b",
-    "specialPrice": 94,
-    "price": 195,
-    "currency": {
-      "symbol": "€",
-      "isBefore": false
-    },
-    "swatches": [
-      {
-        "title": "minim",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "quis",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      }
-    ],
-    "shortDescription": "do non"
-  },
-  {
-    "id": "5dd024069ad9b1ea8e5b2667",
-    "isOutOfStock": true,
-    "isPromo": true,
-    "name": "officia dolor in",
-    "url": "./catalog/5dd024066075e812b1868ce4",
-    "specialPrice": 97,
-    "price": 138,
-    "currency": {
-      "symbol": "€",
-      "isBefore": false
-    },
-    "swatches": [
-      {
-        "title": "anim",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      }
-    ],
-    "shortDescription": "ex ullamco"
-  },
-  {
-    "id": "5dd02406e7d7e7a0528d2bf2",
-    "isOutOfStock": false,
-    "isPromo": true,
-    "name": "ad Lorem elit",
-    "url": "./catalog/5dd0240675397290edfb60d3",
-    "specialPrice": 90,
-    "price": 124,
-    "currency": {
-      "symbol": "€",
-      "isBefore": false
-    },
-    "swatches": [
-      {
-        "title": "aliqua",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "officia",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      }
-    ],
-    "shortDescription": "voluptate ex"
-  },
-  {
-    "id": "5dd024068b7b87e88d78ecc4",
-    "isOutOfStock": false,
-    "isPromo": false,
-    "name": "nisi fugiat mollit",
-    "url": "./catalog/5dd02406f066b1079063f7e7",
-    "specialPrice": 72,
-    "price": 115,
-    "currency": {
-      "symbol": "€",
-      "isBefore": false
-    },
-    "swatches": [
-      {
-        "title": "id",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "culpa",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "in",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      }
-    ],
-    "shortDescription": "excepteur occaecat"
-  },
-  {
-    "id": "5dd024069b9150bd2f203011",
-    "isOutOfStock": false,
-    "isPromo": true,
-    "name": "qui dolor aliquip",
-    "url": "./catalog/5dd024065374099c7d968539",
-    "specialPrice": 75,
-    "price": 188,
-    "currency": {
-      "symbol": "€",
-      "isBefore": false
-    },
-    "swatches": [
-      {
-        "title": "culpa",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      }
-    ],
-    "shortDescription": "incididunt cupidatat"
-  },
-  {
-    "id": "5dd024069fdf1d81098975fc",
-    "isOutOfStock": true,
-    "isPromo": false,
-    "name": "amet tempor aute",
-    "url": "./catalog/5dd024065dd50733b3002cbd",
-    "specialPrice": 74,
-    "price": 124,
-    "currency": {
-      "symbol": "€",
-      "isBefore": false
-    },
-    "swatches": [
-      {
-        "title": "amet",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "ullamco",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "aute",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "nulla",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "exercitation",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      }
-    ],
-    "shortDescription": "ullamco tempor"
-  },
-  {
-    "id": "5dd02406ca18c928adf9a59d",
-    "isOutOfStock": true,
-    "isPromo": true,
-    "name": "excepteur do laboris",
-    "url": "./catalog/5dd02406220f2fd638bddf5b",
-    "specialPrice": 83,
-    "price": 185,
-    "currency": {
-      "symbol": "€",
-      "isBefore": false
-    },
-    "swatches": [
-      {
-        "title": "dolore",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "exercitation",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "amet",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "non",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "dolor",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      }
-    ],
-    "shortDescription": "qui laborum"
-  },
-  {
-    "id": "5dd02406becf363dd2b26697",
-    "isOutOfStock": false,
-    "isPromo": false,
-    "name": "labore aliquip est",
-    "url": "./catalog/5dd02406668faff2e33b0d26",
-    "specialPrice": 85,
-    "price": 168,
-    "currency": {
-      "symbol": "€",
-      "isBefore": false
-    },
-    "swatches": [
-      {
-        "title": "irure",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "esse",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "irure",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      }
-    ],
-    "shortDescription": "ad commodo"
-  },
-  {
-    "id": "5dd02406a4f7e1c257d80e7e",
-    "isOutOfStock": true,
-    "isPromo": true,
-    "name": "ea esse nisi",
-    "url": "./catalog/5dd02406e7f134f3b2c45bd0",
-    "specialPrice": 57,
-    "price": 101,
-    "currency": {
-      "symbol": "€",
-      "isBefore": false
-    },
-    "swatches": [
-      {
-        "title": "Lorem",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "non",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "aliqua",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "adipisicing",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "non",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      }
-    ],
-    "shortDescription": "do ad"
-  },
-  {
-    "id": "5dd0240694199fc245f4911b",
-    "isOutOfStock": true,
-    "isPromo": true,
-    "name": "anim in nisi",
-    "url": "./catalog/5dd024067410101d7b14c24a",
-    "specialPrice": 87,
-    "price": 147,
-    "currency": {
-      "symbol": "€",
-      "isBefore": false
-    },
-    "swatches": [
-      {
-        "title": "sint",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "est",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "sunt",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "consectetur",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "esse",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      }
-    ],
-    "shortDescription": "duis labore"
-  },
-  {
-    "id": "5dd02406bad38622150266a6",
-    "isOutOfStock": false,
-    "isPromo": true,
-    "name": "do culpa cupidatat",
-    "url": "./catalog/5dd02406a1314f5b50d15026",
-    "specialPrice": 59,
-    "price": 139,
-    "currency": {
-      "symbol": "€",
-      "isBefore": false
-    },
-    "swatches": [
-      {
-        "title": "qui",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "in",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      }
-    ],
-    "shortDescription": "consequat ex"
-  },
-  {
-    "id": "5dd02406a083505b43ae54ee",
-    "isOutOfStock": false,
-    "isPromo": true,
-    "name": "et officia anim",
-    "url": "./catalog/5dd02406a25ddc6319f3ab13",
-    "specialPrice": 90,
-    "price": 128,
-    "currency": {
-      "symbol": "€",
-      "isBefore": false
-    },
-    "swatches": [
-      {
-        "title": "do",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "sunt",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "qui",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      }
-    ],
-    "shortDescription": "consectetur tempor"
-  },
-  {
-    "id": "5dd02406bbec71efda71f07a",
-    "isOutOfStock": true,
-    "isPromo": false,
-    "name": "nisi aliquip proident",
-    "url": "./catalog/5dd02406f02eb61d97c7ff18",
-    "specialPrice": 78,
-    "price": 128,
-    "currency": {
-      "symbol": "€",
-      "isBefore": false
-    },
-    "swatches": [
-      {
-        "title": "aliquip",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      }
-    ],
-    "shortDescription": "anim exercitation"
-  },
-  {
-    "id": "5dd02406a181473c113b203b",
-    "isOutOfStock": true,
-    "isPromo": false,
-    "name": "officia ullamco ea",
-    "url": "./catalog/5dd02406c31a877e1b056e99",
-    "specialPrice": 67,
-    "price": 178,
-    "currency": {
-      "symbol": "€",
-      "isBefore": false
-    },
-    "swatches": [
-      {
-        "title": "ut",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      }
-    ],
-    "shortDescription": "elit eiusmod"
-  },
-  {
-    "id": "5dd024063fb91473808fa2b3",
-    "isOutOfStock": false,
-    "isPromo": false,
-    "name": "dolor in pariatur",
-    "url": "./catalog/5dd0240619d428482f1cd944",
-    "specialPrice": 69,
-    "price": 174,
-    "currency": {
-      "symbol": "€",
-      "isBefore": false
-    },
-    "swatches": [
-      {
-        "title": "excepteur",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "ullamco",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "culpa",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "laborum",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "laborum",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      }
-    ],
-    "shortDescription": "aute duis"
-  },
-  {
-    "id": "5dd0240668f9b7950112ad0d",
-    "isOutOfStock": false,
-    "isPromo": false,
-    "name": "do elit aliqua",
-    "url": "./catalog/5dd02406a940fdf198aa4287",
-    "specialPrice": 53,
-    "price": 101,
-    "currency": {
-      "symbol": "€",
-      "isBefore": false
-    },
-    "swatches": [
-      {
-        "title": "aliquip",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "anim",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "consectetur",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "laboris",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "cillum",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      }
-    ],
-    "shortDescription": "dolor esse"
-  },
-  {
-    "id": "5dd02406e902cdbbeb0853ce",
-    "isOutOfStock": true,
-    "isPromo": true,
-    "name": "amet officia in",
-    "url": "./catalog/5dd024062fea756c9c2fb6f3",
-    "specialPrice": 65,
-    "price": 136,
-    "currency": {
-      "symbol": "€",
-      "isBefore": false
-    },
-    "swatches": [
-      {
-        "title": "aute",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "magna",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      }
-    ],
-    "shortDescription": "cillum ut"
-  },
-  {
-    "id": "5dd02406345f653b88e9c050",
-    "isOutOfStock": true,
-    "isPromo": true,
-    "name": "laborum sit ipsum",
-    "url": "./catalog/5dd0240680ea78dff1e09f79",
-    "specialPrice": 60,
-    "price": 136,
-    "currency": {
-      "symbol": "€",
-      "isBefore": false
-    },
-    "swatches": [
-      {
-        "title": "irure",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      }
-    ],
-    "shortDescription": "elit quis"
-  },
-  {
-    "id": "5dd0240685787083bf39c569",
-    "isOutOfStock": true,
-    "isPromo": true,
-    "name": "sit duis consectetur",
-    "url": "./catalog/5dd02406f659c94a4a37c1ca",
-    "specialPrice": 79,
-    "price": 138,
-    "currency": {
-      "symbol": "€",
-      "isBefore": false
-    },
-    "swatches": [
-      {
-        "title": "pariatur",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "proident",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      }
-    ],
-    "shortDescription": "dolor esse"
-  },
-  {
-    "id": "5dd024065ac9b7fa6696714e",
-    "isOutOfStock": false,
-    "isPromo": true,
-    "name": "irure commodo ea",
-    "url": "./catalog/5dd0240676bb623757020fb8",
-    "specialPrice": 100,
-    "price": 136,
-    "currency": {
-      "symbol": "€",
-      "isBefore": false
-    },
-    "swatches": [
-      {
-        "title": "quis",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "ullamco",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "adipisicing",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "laborum",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      }
-    ],
-    "shortDescription": "adipisicing reprehenderit"
-  },
-  {
-    "id": "5dd02406069209f7ff111040",
-    "isOutOfStock": false,
-    "isPromo": true,
-    "name": "consequat quis ad",
-    "url": "./catalog/5dd02406809482396be820c5",
-    "specialPrice": 59,
-    "price": 155,
     "currency": {
       "symbol": "€",
       "isBefore": false
@@ -1700,220 +126,96 @@
     "swatches": [
       {
         "title": "voluptate",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
+        "main": "https://picsum.photos/348/480",
+        "flip": "https://picsum.photos/348/480"
       },
       {
-        "title": "qui",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
+        "title": "fugiat",
+        "main": "https://picsum.photos/348/480",
+        "flip": "https://picsum.photos/348/480"
       },
       {
-        "title": "cillum",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
+        "title": "laboris",
+        "main": "https://picsum.photos/348/480",
+        "flip": "https://picsum.photos/348/480"
+      },
+      {
+        "title": "consectetur",
+        "main": "https://picsum.photos/348/480",
+        "flip": "https://picsum.photos/348/480"
       }
     ],
-    "shortDescription": "id do"
+    "shortDescription": "sunt laborum"
   },
   {
-    "id": "5dd02406201b01ef74bdbb59",
+    "id": "5dd0275575b30cb8ade1966e",
     "isOutOfStock": true,
-    "isPromo": true,
-    "name": "anim eiusmod laboris",
-    "url": "./catalog/5dd02406c381eca4c2877016",
-    "specialPrice": 59,
-    "price": 106,
-    "currency": {
-      "symbol": "€",
-      "isBefore": false
-    },
-    "swatches": [
-      {
-        "title": "enim",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "eu",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "aliqua",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "velit",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "exercitation",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      }
-    ],
-    "shortDescription": "consequat cillum"
-  },
-  {
-    "id": "5dd02406901a6d7dbde9e001",
-    "isOutOfStock": false,
-    "isPromo": true,
-    "name": "aute dolore sunt",
-    "url": "./catalog/5dd02406a69bc0ea265038b7",
-    "specialPrice": 69,
-    "price": 192,
-    "currency": {
-      "symbol": "€",
-      "isBefore": false
-    },
-    "swatches": [
-      {
-        "title": "cupidatat",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      }
-    ],
-    "shortDescription": "culpa non"
-  },
-  {
-    "id": "5dd02406577d7927d4890724",
-    "isOutOfStock": false,
     "isPromo": false,
-    "name": "sunt et anim",
-    "url": "./catalog/5dd024060825128474af6b0b",
+    "name": "occaecat ex ullamco",
+    "url": "./catalog/5dd02755683eeaf038ec1126",
     "specialPrice": 66,
-    "price": 178,
+    "price": 112,
     "currency": {
       "symbol": "€",
       "isBefore": false
     },
     "swatches": [
       {
-        "title": "non",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      }
-    ],
-    "shortDescription": "ex voluptate"
-  },
-  {
-    "id": "5dd024064f5ac000f3186f0a",
-    "isOutOfStock": true,
-    "isPromo": false,
-    "name": "occaecat exercitation elit",
-    "url": "./catalog/5dd02406680d1ee0d9cd0220",
-    "specialPrice": 70,
-    "price": 160,
-    "currency": {
-      "symbol": "€",
-      "isBefore": false
-    },
-    "swatches": [
+        "title": "esse",
+        "main": "https://picsum.photos/348/480",
+        "flip": "https://picsum.photos/348/480"
+      },
       {
-        "title": "ea",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
+        "title": "Lorem",
+        "main": "https://picsum.photos/348/480",
+        "flip": "https://picsum.photos/348/480"
       },
       {
         "title": "deserunt",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "tempor",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "id",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "magna",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
+        "main": "https://picsum.photos/348/480",
+        "flip": "https://picsum.photos/348/480"
       }
     ],
-    "shortDescription": "eu amet"
+    "shortDescription": "sit nulla"
   },
   {
-    "id": "5dd02406cab6e44099d97b76",
-    "isOutOfStock": false,
-    "isPromo": false,
-    "name": "consectetur id amet",
-    "url": "./catalog/5dd024060f9514373f3352ed",
-    "specialPrice": 94,
-    "price": 155,
-    "currency": {
-      "symbol": "€",
-      "isBefore": false
-    },
-    "swatches": [
-      {
-        "title": "sunt",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "ipsum",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "commodo",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      }
-    ],
-    "shortDescription": "cupidatat incididunt"
-  },
-  {
-    "id": "5dd02406c6ea69ea0abbcda7",
+    "id": "5dd0275580536b469144722e",
     "isOutOfStock": true,
-    "isPromo": true,
-    "name": "ut elit culpa",
-    "url": "./catalog/5dd02406715374cb36b0ba7b",
-    "specialPrice": 100,
-    "price": 108,
+    "isPromo": false,
+    "name": "magna magna magna",
+    "url": "./catalog/5dd02755ab224d53dd1ab9a7",
+    "specialPrice": 99,
+    "price": 136,
     "currency": {
       "symbol": "€",
       "isBefore": false
     },
     "swatches": [
       {
-        "title": "id",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "aute",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
+        "title": "eiusmod",
+        "main": "https://picsum.photos/348/480",
+        "flip": "https://picsum.photos/348/480"
       },
       {
         "title": "minim",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
+        "main": "https://picsum.photos/348/480",
+        "flip": "https://picsum.photos/348/480"
       },
       {
-        "title": "enim",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
+        "title": "nostrud",
+        "main": "https://picsum.photos/348/480",
+        "flip": "https://picsum.photos/348/480"
       }
     ],
-    "shortDescription": "aliquip officia"
+    "shortDescription": "proident duis"
   },
   {
-    "id": "5dd02406b62c8ea686ae994e",
+    "id": "5dd02755196ff693136bfea3",
     "isOutOfStock": true,
-    "isPromo": true,
-    "name": "incididunt anim eiusmod",
-    "url": "./catalog/5dd02406599b7aa3fc8e3fc9",
-    "specialPrice": 74,
+    "isPromo": false,
+    "name": "ipsum sit consectetur",
+    "url": "./catalog/5dd02755c6427bf8d2e30cc2",
+    "specialPrice": 67,
     "price": 153,
     "currency": {
       "symbol": "€",
@@ -1921,141 +223,156 @@
     },
     "swatches": [
       {
-        "title": "aute",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
+        "title": "adipisicing",
+        "main": "https://picsum.photos/348/480",
+        "flip": "https://picsum.photos/348/480"
+      },
+      {
+        "title": "aliquip",
+        "main": "https://picsum.photos/348/480",
+        "flip": "https://picsum.photos/348/480"
+      },
+      {
+        "title": "nostrud",
+        "main": "https://picsum.photos/348/480",
+        "flip": "https://picsum.photos/348/480"
+      },
+      {
+        "title": "magna",
+        "main": "https://picsum.photos/348/480",
+        "flip": "https://picsum.photos/348/480"
+      }
+    ],
+    "shortDescription": "duis aliqua"
+  },
+  {
+    "id": "5dd027552f18dba54a3cd817",
+    "isOutOfStock": false,
+    "isPromo": true,
+    "name": "duis commodo commodo",
+    "url": "./catalog/5dd02755889890f8dc68cd9f",
+    "specialPrice": 50,
+    "price": 168,
+    "currency": {
+      "symbol": "€",
+      "isBefore": false
+    },
+    "swatches": [
+      {
+        "title": "Lorem",
+        "main": "https://picsum.photos/348/480",
+        "flip": "https://picsum.photos/348/480"
+      },
+      {
+        "title": "culpa",
+        "main": "https://picsum.photos/348/480",
+        "flip": "https://picsum.photos/348/480"
+      },
+      {
+        "title": "aliqua",
+        "main": "https://picsum.photos/348/480",
+        "flip": "https://picsum.photos/348/480"
+      }
+    ],
+    "shortDescription": "ullamco sint"
+  },
+  {
+    "id": "5dd027553240b71c093fc7d2",
+    "isOutOfStock": false,
+    "isPromo": false,
+    "name": "irure ea velit",
+    "url": "./catalog/5dd027557e616c5bbd5248c8",
+    "specialPrice": 51,
+    "price": 189,
+    "currency": {
+      "symbol": "€",
+      "isBefore": false
+    },
+    "swatches": [
+      {
+        "title": "incididunt",
+        "main": "https://picsum.photos/348/480",
+        "flip": "https://picsum.photos/348/480"
       },
       {
         "title": "pariatur",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
+        "main": "https://picsum.photos/348/480",
+        "flip": "https://picsum.photos/348/480"
+      },
+      {
+        "title": "elit",
+        "main": "https://picsum.photos/348/480",
+        "flip": "https://picsum.photos/348/480"
       }
     ],
-    "shortDescription": "consequat mollit"
+    "shortDescription": "non commodo"
   },
   {
-    "id": "5dd0240600ed6903ee74f3b6",
-    "isOutOfStock": true,
-    "isPromo": true,
-    "name": "ex culpa nostrud",
-    "url": "./catalog/5dd02406a745b1d350747ed7",
-    "specialPrice": 81,
-    "price": 159,
-    "currency": {
-      "symbol": "€",
-      "isBefore": false
-    },
-    "swatches": [
-      {
-        "title": "nulla",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "cupidatat",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "irure",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "adipisicing",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "laboris",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      }
-    ],
-    "shortDescription": "esse consequat"
-  },
-  {
-    "id": "5dd0240677e7b009ce67bed2",
-    "isOutOfStock": true,
-    "isPromo": false,
-    "name": "officia culpa duis",
-    "url": "./catalog/5dd024068bce6c2ce460401c",
-    "specialPrice": 90,
-    "price": 158,
-    "currency": {
-      "symbol": "€",
-      "isBefore": false
-    },
-    "swatches": [
-      {
-        "title": "laboris",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "duis",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "minim",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      }
-    ],
-    "shortDescription": "pariatur consequat"
-  },
-  {
-    "id": "5dd0240695b168d64b0f8c8a",
-    "isOutOfStock": true,
-    "isPromo": false,
-    "name": "deserunt incididunt anim",
-    "url": "./catalog/5dd02406b4126b9d968cfd83",
-    "specialPrice": 77,
-    "price": 164,
-    "currency": {
-      "symbol": "€",
-      "isBefore": false
-    },
-    "swatches": [
-      {
-        "title": "adipisicing",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      },
-      {
-        "title": "cupidatat",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
-      }
-    ],
-    "shortDescription": "fugiat nostrud"
-  },
-  {
-    "id": "5dd024066a21eb765e3e8aca",
+    "id": "5dd027554bd13367c6ab7199",
     "isOutOfStock": false,
     "isPromo": true,
-    "name": "ut magna deserunt",
-    "url": "./catalog/5dd02406f661f53c383c4a30",
-    "specialPrice": 98,
-    "price": 108,
+    "name": "ut ad enim",
+    "url": "./catalog/5dd0275593a4411772a4acab",
+    "specialPrice": 90,
+    "price": 174,
     "currency": {
       "symbol": "€",
       "isBefore": false
     },
     "swatches": [
       {
-        "title": "reprehenderit",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
+        "title": "velit",
+        "main": "https://picsum.photos/348/480",
+        "flip": "https://picsum.photos/348/480"
       },
       {
-        "title": "in",
-        "main": "http://placehold.it/280x280",
-        "flip": "http://placehold.it/300x300"
+        "title": "occaecat",
+        "main": "https://picsum.photos/348/480",
+        "flip": "https://picsum.photos/348/480"
+      },
+      {
+        "title": "dolore",
+        "main": "https://picsum.photos/348/480",
+        "flip": "https://picsum.photos/348/480"
+      },
+      {
+        "title": "Lorem",
+        "main": "https://picsum.photos/348/480",
+        "flip": "https://picsum.photos/348/480"
       }
     ],
-    "shortDescription": "aliquip cillum"
+    "shortDescription": "nisi aliqua"
+  },
+  {
+    "id": "5dd0275511cc8cfa10ee4769",
+    "isOutOfStock": true,
+    "isPromo": true,
+    "name": "excepteur eu sunt",
+    "url": "./catalog/5dd0275507f83e8385b897fd",
+    "specialPrice": 92,
+    "price": 161,
+    "currency": {
+      "symbol": "€",
+      "isBefore": false
+    },
+    "swatches": [
+      {
+        "title": "aliquip",
+        "main": "https://picsum.photos/348/480",
+        "flip": "https://picsum.photos/348/480"
+      },
+      {
+        "title": "commodo",
+        "main": "https://picsum.photos/348/480",
+        "flip": "https://picsum.photos/348/480"
+      },
+      {
+        "title": "excepteur",
+        "main": "https://picsum.photos/348/480",
+        "flip": "https://picsum.photos/348/480"
+      }
+    ],
+    "shortDescription": "mollit nostrud"
   }
 ]
 }
