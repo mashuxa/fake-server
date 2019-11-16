@@ -43,18 +43,18 @@
     "swatches": [
       {
         "title": "in",
-        "main": "https://picsum.photos/348/480",
-        "flip": "https://picsum.photos/348/480"
+        "main": "https://cdn.pixabay.com/photo/2018/10/30/16/06/water-lily-3784022__340.jpg",
+        "flip": "https://images.all-free-download.com/images/graphicthumb/germini_flower_pink_petals_608384.jpg"
       },
       {
         "title": "proident",
-        "main": "https://picsum.photos/348/480",
-        "flip": "https://picsum.photos/348/480"
+        "main": "https://image.shutterstock.com/image-photo/micro-peacock-feather-hd-imagebest-260nw-1127238584.jpg",
+        "flip": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__340.jpg"
       },
       {
         "title": "irure",
-        "main": "https://picsum.photos/348/480",
-        "flip": "https://picsum.photos/348/480"
+        "main": "https://images.unsplash.com/photo-1541233349642-6e425fe6190e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80",
+        "flip": "https://images.unsplash.com/photo-1513366208864-87536b8bd7b4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80"
       }
     ],
     "shortDescription": "velit ad"
