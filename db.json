@@ -21,8 +21,8 @@
       },
       {
         "title": "amet",
-        "http://invicta.public.triboo.it/media/catalog/product/cache/0/small_image/348x480/9df78eab33525d08d6e5fb8d27136e95/2/0/206001802_531_1_.jpg",
-        "http://invicta.public.triboo.it/media/catalog/product/cache/0/small_image/348x480/9df78eab33525d08d6e5fb8d27136e95/2/0/206001804_fd9.jpg"
+        "main": "http://invicta.public.triboo.it/media/catalog/product/cache/0/small_image/348x480/9df78eab33525d08d6e5fb8d27136e95/2/0/206001802_531_1_.jpg",
+        "flip": "http://invicta.public.triboo.it/media/catalog/product/cache/0/small_image/348x480/9df78eab33525d08d6e5fb8d27136e95/2/0/206001804_fd9.jpg"
       }
     ],
     "shortDescription": "sit mollit"
